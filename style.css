@@ -1,0 +1,73 @@
+.custom_nav{
+    box-shadow: 2px 2px 18px orange;
+    font-style: algerian;
+    color: orange;
+}
+.main-banner{
+    padding-top: 150px;
+    padding-bottom:100px;
+    background-image:url(images/hallstatt-3609863_1920.jpg);
+    background-size: cover;
+    font-style: inherit;
+    color:white;
+    box-shadow:2px 2px 30px orange;
+}
+.co
+{
+    padding-top: 150px;
+    padding-bottom:100px;
+    margin-left: 50px;
+    margin-right:500px;
+    background-color:rgb(49, 47, 47);
+    color:orange;
+
+}
+.info{
+    color: white;
+}
+.cont{
+    text-align: center;
+    color: orange;
+    background-color: rgb(9, 123, 143);
+    box-shadow:2px 2px 20px orange
+}
+.slider{
+    width:100%;
+    height: 500px;
+    overflow:hidden;
+    
+}
+.cont1{
+padding-top: 5px;
+    text-align: center;
+}
+.aus{
+    background-color: darkgray;
+}
+.down1{
+    background-color: rgb(51, 48, 48);
+    color: gainsboro;
+    text-align: center;
+    box-shadow:2px 2px 14px 14px rgb(51, 48, 48);
+    font-size:3.5mm;
+    
+    
+   
+}
+.cop{
+    background-color: rgb(122, 32, 32);
+    color:white;
+    text-align: center;
+    box-shadow:  14px rgb(51, 48, 48);
+    
+}
+.frame{
+    margin-left:375px;
+    background-color:2px 2px 14px 14px rgb(51, 48, 48) ;
+}
+.cover{
+    padding-top:25px;
+    background-color: rgb(255, 242, 126);
+}
+
+
